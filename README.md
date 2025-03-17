@@ -1,6 +1,4 @@
-# Mobs-And-Knights
-
-🏰 Mobs & Knights
+# Mobs And Knights 🏰
 
 Mobs & Knights is a text-based RPG where players manage knights, battle monsters, and level up through strategic encounters. The game features file saving, random encounters, and team management, offering an engaging gameplay experience with room for future expansion.
 
